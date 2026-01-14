@@ -1,12 +1,13 @@
-▶️ Business Insights 360 – Power BI Project | AtliQ Hardware
+## Business Insights 360 – Power BI Project | AtliQ Hardware
 
 Excited to share my latest Power BI bootcamp project, where I built an end-to-end Business Insights 360 dashboard for AtliQ Hardware  - analyzing financial, sales, marketing, and supply chain data to uncover actionable insights and support strategic decision-making.
 
-🎯 Project Objective
+<h3>Project Objectiv</h3>
+
  Design an intuitive, stakeholder-friendly Power BI dashboard to improve data accessibility, enable faster decisions, and drive sustainable business growth.
 
 
-💡 Key Insights
+<h3>Key Insights</h3>
 
 ▪️ Net Sales grew by ~350% in FY 2022, yet Net profit % remained negative due to rising operational and marketing expenses.
 
@@ -28,7 +29,7 @@ Excited to share my latest Power BI bootcamp project, where I built an end-to-en
 
 
 
-📝 Strategic Recommendations
+<h3>Strategic Recommendations</h3>
 
 ▪️Reduce operational and marketing expenses after market capture to improve Net Profit %.
 
@@ -50,19 +51,18 @@ Excited to share my latest Power BI bootcamp project, where I built an end-to-en
 
 
 
-🚀 Learning Outcome
+<h3>Learning Outcome</h3>
 
  This project significantly strengthened my data cleaning, DAX, and dashboard design skills, while deepening my understanding of real-world business KPIs and decision-making.
 
 
-🙏 Gratitude
+<h3>Gratitude</h3>
 
  A big thank you to Codebasics, Dhaval Patel, and Hemanand Vadivel for the invaluable hands-on learning experience.
 
-📊 Looking ahead, I’m excited to apply these insights and continue growing in my journey as a data analyst.
+<h3>Looking ahead, I’m excited to apply these insights and continue growing in my journey as a data analyst.</h3>
 
 
 
 🏷️ Live Dashboard: https://lnkd.in/du5jmcZH
 
-🏷️Github Repository : 
